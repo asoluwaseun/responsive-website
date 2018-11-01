@@ -1,0 +1,84 @@
+*{
+	font-family: Helvetica;
+}
+
+button{
+	cursor: pointer;
+}
+body{
+	background-color: #DBDDE0 !important;
+
+}
+.content1{
+	background-color: white;
+	height: 350px;
+	/*border: 1px solid black;*/
+	border-radius: 3px;
+	/*position: absolute;*/
+
+	
+}
+
+#profile{
+	background-image: url("thor.jpg");
+	height: 150px;
+	background-size: cover;
+
+}
+
+#image1{
+	max-width: 100px;
+    margin-top: -70px;
+    margin-bottom: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
+
+}
+
+
+
+p{
+	color:#242424;
+}
+
+header{
+	height: 70px;
+	width: 100%;
+	background-color: #3097D1;
+}
+
+.content1a{
+	background-color: white; 
+	height: auto; 
+	border-radius: 3px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+
+#camerabtn:hover{
+	background-color: #BEC8D0;
+
+	
+}
+
+
+
+
+.content2{
+	background-color: white; 
+	height: auto; 
+	border-radius: 3px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+@media screen and (max-width: ){
+
+}
+
